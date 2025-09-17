@@ -3,5 +3,5 @@ A fast-paced 2D airstrike shooter game built with Python &amp; Pygame. Control y
 
 # Aerial Fury
 
-Play my game here: [Play Aerial Fury](https://yourusername.github.io/aerial-fury)
+Play my game here: [Play Aerial Fury](https://arafat178.github.io/Aerial-Fury/)
 
